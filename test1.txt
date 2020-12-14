@@ -1,1 +1,7 @@
 welcome to github!
+
+https://git-scm.com/docs
+https://guides.github.com/introduction/flow/
+https://nvie.com/posts/a-successful-git-branching-model/
+https://www.venturelessons.com/what-is-git-and-how-do-i-use-it/
+https://www.youtube.com/watch?v=aJnFGMclhU8
